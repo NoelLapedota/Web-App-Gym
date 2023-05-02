@@ -62,3 +62,5 @@ By default, an admin user and a trainer user are created in the database, to acc
 `Trainer: Paskal , password: 123456hJ`
 
 # IMPORTANT: by default when a new user is created, this password has YOUR USERNAME + 1000.
+
+# docker address: https://hub.docker.com/repository/docker/mrleon123/gym_app_project/general
